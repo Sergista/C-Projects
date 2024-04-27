@@ -1,0 +1,15 @@
+[submodule "string"]
+	path = string
+	url = https://github.com/Sergista/string
+[submodule "Math.c"]
+	path = Math.c
+	url = https://github.com/Sergista/Math.c
+[submodule "cat-and-grep"]
+	path = cat-and-grep
+	url = https://github.com/Sergista/cat-and-grep
+[submodule "game_of_life"]
+	path = game_of_life
+	url = https://github.com/Sergista/game_of_life
+[submodule "Ping_Pong"]
+	path = Ping_Pong
+	url = https://github.com/Sergista/Ping_Pong
